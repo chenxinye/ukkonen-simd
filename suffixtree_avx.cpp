@@ -1,3 +1,10 @@
+/*
+ * Ukkonen's algorithm
+ * 
+ * Author: Xinye Chen
+ * Affiliation: Postdoctoral Researcher, Sorbonne University, LIP6, CNRS
+ */ 
+
 #include "suffixtree_avx.h"
 
 // Helper for bit manipulation (Count Trailing Zeros)

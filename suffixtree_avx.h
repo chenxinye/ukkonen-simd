@@ -1,3 +1,11 @@
+/*
+ * Ukkonen's algorithm
+ * 
+ * Author: Xinye Chen
+ * Affiliation: Postdoctoral Researcher, Sorbonne University, LIP6, CNRS
+ */ 
+
+ 
 #ifndef SUFFIX_TREE_AVX_H
 #define SUFFIX_TREE_AVX_H
 

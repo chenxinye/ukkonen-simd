@@ -1,3 +1,11 @@
+/*
+ * Ukkonen's algorithm
+ * 
+ * Author: Xinye Chen
+ * Affiliation: Postdoctoral Researcher, Sorbonne University, LIP6, CNRS
+ */ 
+
+ 
 #include <iostream>
 #include <chrono>
 #include <random>

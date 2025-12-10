@@ -1,4 +1,8 @@
 /**
+ * Ukkonen's algorithm
+ * 
+ * Author: Xinye Chen
+ * Affiliation: Postdoctoral Researcher, Sorbonne University, LIP6, CNRS
  * @file suffixtree.h
  * @brief High-performance, header-only C++ implementation of Ukkonen's Suffix Tree Algorithm.
  * * Features:

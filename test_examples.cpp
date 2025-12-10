@@ -1,9 +1,15 @@
+/*
+ * Ukkonen's algorithm
+ * 
+ * Author: Xinye Chen
+ * Affiliation: Postdoctoral Researcher, Sorbonne University, LIP6, CNRS
+ */ 
+
 #include <iostream>
 #include <vector>
 #include <cassert>
 #include "suffixtree.h"
 
-// Helper function to run a test case
 void runTest(std::string inputName, std::string text, const std::vector<std::string>& patterns, const std::vector<bool>& expectedResults) {
     std::cout << "Running Test: " << inputName << " (Text: \"" << text << "\")" << std::endl;
     

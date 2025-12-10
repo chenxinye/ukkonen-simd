@@ -1,3 +1,10 @@
+/*
+ * Ukkonen's algorithm
+ * 
+ * Author: Xinye Chen
+ * Affiliation: Postdoctoral Researcher, Sorbonne University, LIP6, CNRS
+ */ 
+
 #ifndef SUFFIX_TREE_NEON_H
 #define SUFFIX_TREE_NEON_H
 

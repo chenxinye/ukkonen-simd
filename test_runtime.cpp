@@ -1,11 +1,17 @@
+/*
+ * Ukkonen's algorithm
+ * 
+ * Author: Xinye Chen
+ * Affiliation: Postdoctoral Researcher, Sorbonne University, LIP6, CNRS
+ */ 
+
+
 #include <iostream>
 #include <vector>
 #include <string>
 #include <chrono>  
 #include <random>   
 #include "suffixtree.h" 
-
-
 
 void runCorrectnessTest() {
     std::cout << "\n--- Correctness Tests ---" << std::endl;

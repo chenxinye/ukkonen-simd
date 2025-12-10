@@ -1,3 +1,11 @@
+/*
+ * Ukkonen's algorithm
+ * 
+ * Author: Xinye Chen
+ * Affiliation: Postdoctoral Researcher, Sorbonne University, LIP6, CNRS
+ */ 
+
+ 
 #include <pybind11/pybind11.h>
 #include <pybind11/stl.h>
 #include "suffixtree_py.h" 
