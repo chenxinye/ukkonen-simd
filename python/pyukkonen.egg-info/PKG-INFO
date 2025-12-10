@@ -1,4 +1,4 @@
-Metadata-Version: 2.4
+Metadata-Version: 2.1
 Name: pyukkonen
 Version: 0.0.1
 Summary: A high-performance C++ Suffix Tree implementation with Python bindings
@@ -7,13 +7,6 @@ Author: Xinye Chen
 Author-email: xinyechenai@gmail.com
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
-Dynamic: author
-Dynamic: author-email
-Dynamic: description
-Dynamic: description-content-type
-Dynamic: home-page
-Dynamic: requires-python
-Dynamic: summary
 
 # pyukkonen
 
